@@ -7,6 +7,7 @@ public class Boldness
 				System.out.println("BE BOLD");
 				System.out.println("This is hard, but I agree! :)");
 				System.out.println("Totally agree! BE BOLD ;)");
+				System.out.println("Let's try stuff!");
 			}
 		
 
